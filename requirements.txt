@@ -1,0 +1,8 @@
+streamlit
+tensorflow==2.15.0
+tensorflow-addons
+pillow
+numpy
+scikit-learn
+matplotlib
+seaborn
